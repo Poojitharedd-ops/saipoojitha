@@ -1,7 +1,3 @@
-Your profile looks great and provides a clear, concise overview of your skills, experience, and current focus areas! It showcases your expertise in both **DevOps** and **Salesforce** while highlighting your proficiency in **Kubernetes**, **cloud infrastructure**, and **automation**. There’s only a small suggestion to make it even more polished. Here's a slightly refined version with minor formatting tweaks for clarity and flow:
-
----
-
 ### 👋 Hi, I’m Sai Poojitha – DevOps Engineer | Cloud & Kubernetes Enthusiast | Salesforce Professional
 
 🚀 **DevOps Professional with 3 Years of Cloud & Kubernetes Experience | 2 Years of Salesforce Expertise**  
